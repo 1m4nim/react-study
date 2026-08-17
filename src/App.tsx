@@ -7,7 +7,8 @@
 // import Q7 from "./components/Q7"
 // import Q8 from "./components/Q8"
 // import Q9 from "./components/Q9"
-import Q10 from "./components/Q10"
+// import Q10 from "./components/Q10"
+import Q11 from "./components/Q11";
 
 export default function App() {
   return (
@@ -21,7 +22,8 @@ export default function App() {
       {/* <Q7 /> */}
       {/* <Q8 /> */}
       {/* <Q9 /> */}
-      <Q10 />
+      {/* <Q10 /> */}
+      <Q11 />
     </>
-  )
+  );
 }
